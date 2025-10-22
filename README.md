@@ -28,8 +28,13 @@ Mariya Sharli P
 ### 🌟 Key Features
 
 ✅ CRUD operations for Developers, Skills, Projects, and Experiences
+
 ✅ Pagination, Sorting, and Filtering on Developers
+
 ✅ Bi-directional JPA mapping between entities
+
 ✅ Global Exception Handling for cleaner error responses
+
 ✅ Interactive API documentation and testing using Swagger UI
+
 ✅ Verified all endpoints using Postman and MySQL Workbench
