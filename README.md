@@ -38,3 +38,6 @@ Mariya Sharli P
 ✅ Interactive API documentation and testing using Swagger UI
 
 ✅ Verified all endpoints using Postman and MySQL Workbench
+
+### 🚀 Future Implementation: 
+Planning to integrate the SkillConnect API with a React frontend for an interactive developer dashboard and seamless user experience.
